@@ -21,10 +21,18 @@ function App(){
             />
           </div>
           <div className="column is-4">
-            <ProfileCard/>
+            <ProfileCard
+            title="Cortana"
+            handle="@cortana001"
+            image="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/08/115841-que-es-como-funciona-cortana-windows-10.jpg?tf=3840x"
+            />
           </div>
           <div className="column is-4">
-            <ProfileCard/>
+            <ProfileCard
+            title="siri"
+            handle="@siri05"
+            image="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapple.fandom.com%2Fes%2Fwiki%2FSiri&psig=AOvVaw07YI5lelZUbbTt5xYvYjmh&ust=1743214772537000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjfiJzbq4wDFQAAAAAdAAAAABAE"
+            />
           </div>
         </div>
       </section>
